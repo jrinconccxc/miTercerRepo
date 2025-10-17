@@ -34,3 +34,8 @@ def get_starwars_warriors():
 def get_warriors_got():
     rows = ["Jon Snow", "Daenerys Targaryen", "Arya Stark", "Tyrion Lannister", "Cersei Lannister", "Jaime Lannister", "Bran Stark", "Sansa Stark"]
     return rows
+
+@app.get("/jugadoresMundial")
+def get_jugadores_mundo():
+    rows = ["Messi", "Cristiano", "Pogba", "Neymar", "Robben", "Ronaldhino", "Hulk", "James"]
+    return rows
