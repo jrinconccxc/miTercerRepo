@@ -47,4 +47,4 @@ Antes de enviar tu PR, asegúrate de responder **todas** las preguntas:
 
 ## 📁 Estructura sugerida
 
-Si usas GitHub, puedes guardar la plantilla de este cuestionario en: Mi repositorio llamado "miTercerRepo", YEAHHH.
+Si usas GitHub, puedes guardar la plantilla de este cuestionario en: Mi repositorio llamado "miTercerRepo".
